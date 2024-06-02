@@ -6,7 +6,7 @@ import Header from './components/Header';
 import BookCarousel from './components/Carousel';
 import BookCard from './components/BookCard';
 import BookDetails from './components/BookDetails';
-import AboutUs from './components/AboutUs';  // Import AboutUs component
+import AboutUs from './components/AboutUs';  
 import Footer from './components/Footer';
 import ContactModal from './components/ContactModal';
 
