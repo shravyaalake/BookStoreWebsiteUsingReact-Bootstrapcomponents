@@ -1,0 +1,218 @@
+
+.navbar-custom {
+  background-color: #4CAF50; 
+}
+
+.navbar-custom .nav-link-custom {
+  color: #ffffff;
+}
+
+
+
+.nav-link-custom {
+  color: #5a5a5a;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-link-custom:hover {
+  color: #007bff;
+}
+
+.navbar-brand {
+  font-family: 'Georgia', serif;
+  font-size: 1.5rem;
+}
+
+.form-control {
+  border-radius: 20px;
+}
+
+.btn-outline-success {
+  border-radius: 20px;
+  color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-outline-success:hover {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.navbar-custom {
+  background-color: gray; 
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link,
+.navbar-custom .form-control,
+.navbar-custom .btn-outline-success {
+  color: black !important;
+}
+
+.navbar-custom .form-control {
+  background-color: lightgoldenrodyellow; 
+  border: none;
+}
+
+.navbar-custom .btn-outline-success {
+  border-color: black;
+}
+
+.navbar-custom .btn-outline-success:hover {
+  background-color: green;
+  color: #343a40;
+}
+
+
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.carousel-caption h3 {
+  font-size: 2rem;
+}
+
+.carousel-caption p {
+  font-size: 1.2rem;
+}
+
+.carousel-item img {
+  height: 600px; 
+  object-fit: cover;
+
+}
+.card {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1.1rem;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.btn-primary {
+  margin-right: 10px;
+}
+
+
+.container {
+  margin-top: 40px;
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  margin-top: 20px;
+}
+
+
+footer {
+  margin-top: 40px;
+  padding: 20px 0;
+  background-color: gray;
+}
+
+h5 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+
+.modal-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.modal-title {
+  font-size: 1.5rem;
+}
+
+.form-group label {
+  font-size: 1.2rem;
+}
+
+.form-control {
+  font-size: 1.1rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+body {
+  background-color: black;
+}
+
+#root {
+  background-color: black; 
+}
+body {
+  color: white; 
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  color: white; 
+}
+
+p {
+  color: white; 
+}
+
+

@@ -1,0 +1,27 @@
+
+.navbar-brand {
+    margin-right: 20px;
+  }
+  
+  .nav-link {
+    margin-right: 15px;
+  }
+  
+  .form-inline {
+    margin-right: 20px;
+  }
+  
+  .ml-auto {
+    margin-left: auto;
+  }
+  
+  .navbar-nav {
+    align-items: center;
+  }
+  
+  @media (max-width: 767px) {
+    .navbar-collapse {
+      justify-content: space-between;
+    }
+  }
+  
